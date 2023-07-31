@@ -83,6 +83,7 @@ classes and use the library's functionality as shown in your initial code. Remem
 different environment, you should include the 'vendor' directory or run `composer install` on the target system to ensure all required dependencies, including the Mailjet library, are installed properly.
 
 # Note: 
+- Extrect vendor.zip folder and replace with vendor.zip to vendor folder.
 - You download this code after that you goto cmd and locate this file. After that test_mail.php add mailjet api key and password also add sender and reciver mail.Use this command for sending mail php test_mail.php . It will be sending mail from sender to reciver mail id. 
 - Feel free to explore, use, and contribute to this open-source User Management System.
 - We welcome your feedback and contributions to enhance its functionalities and usability.
